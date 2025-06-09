@@ -71,9 +71,9 @@ make
 - [x] Makefile for easy building
 - [x] Git/GitHub integration
 - [x] WSL + Ubuntu setup tested
+- [x] Memory usage monitor via `/proc/meminfo`
 
 ### 🧩 In Progress / Planned
-- [ ] Memory usage monitor via `/proc/meminfo`
 - [ ] Multithreaded design (CPU and Memory in separate threads)
 - [ ] Periodic logging to a file
 - [ ] ncurses terminal UI
