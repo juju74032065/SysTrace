@@ -18,15 +18,10 @@ It currently monitors **CPU usage** in real time and is designed to be modular f
 ## 🖥 Preview
 
 ```bash
-CPU Usage: 0.00%
-CPU Usage: 0.13%
-CPU Usage: 0.19%
-CPU Usage: 0.00%
-CPU Usage: 0.00%
-CPU Usage: 0.00%
-CPU Usage: 0.19%
-CPU Usage: 0.06%
-CPU Usage: 0.00%
+[CPU] CPU Usage: 1.00%
+[MEM] Used: 1.00GB / 15.00GB (6.7%)
+[CPU] CPU Usage: 0.25%
+[MEM] Used: 1.00GB / 15.00GB (6.7%)
 ```
 
 ---
